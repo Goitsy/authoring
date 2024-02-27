@@ -2,9 +2,14 @@
 ## External Link
 - [ ] [Github documentation](https://help.github.com/en)
 ## Internal Link
-- [ ] [Go to  Heading section](#Github-Flavoured-Markdown)
+- [ ] [Go to  end section](#tables)
 ## Images
-![image info](./Images/pexels-anjana-c-674010.jpg)
+![Peackock feather](./Images/pexels-anjana-c-674010.jpg)
 
 ## Emojis
+:smile: :purple_heart: 🌈 
 ## Tables
+|  Names | Class |
+| ----------- | ----------- |
+| Homer | kindergarten|
+| Marge | Highschool | 
