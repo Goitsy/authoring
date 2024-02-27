@@ -4,7 +4,7 @@
 ## Internal Link
 - [ ] [Go to  Heading section](#Github-Flavoured-Markdown)
 ## Images
-![alt text])
+![image info](./Images/pexels-anjana-c-674010.jpg)
 
 ## Emojis
 ## Tables
