@@ -1,8 +1,15 @@
 # Github Flavoured Markdown
+
+- [ ] External link
+- [ ] Internal Link
+- [ ] Images
+- [ ] Emojis
+
 ## External Link
-- [ ] [Github documentation](https://help.github.com/en)
+[Github documentation](https://help.github.com/en)
 ## Internal Link
-- [ ] [Go to  end section](#tables)
+[Go to  end section](#tables)
+
 ## Images
 ![Peackock feather](./Images/pexels-anjana-c-674010.jpg)
 
