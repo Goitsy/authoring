@@ -1,9 +1,9 @@
 # Github Flavoured Markdown
 
-- [ ] External link
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis
+- [x] [External link](#external-link)
+- [x] [Internal Link](#iternal-link)
+- [x] [Images](#images)
+- [x] [Emojis](#emojis)
 
 ## External Link
 [Github documentation](https://help.github.com/en)
