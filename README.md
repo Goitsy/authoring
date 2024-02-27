@@ -4,5 +4,7 @@
 ## Internal Link
 - [ ] [Go to  Heading section](#Github-Flavoured-Markdown)
 ## Images
+![alt text])
+
 ## Emojis
 ## Tables
