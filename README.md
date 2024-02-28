@@ -4,7 +4,7 @@
 - [x] [Internal Link](#internal-link)
 - [x] [Images](#images)
 - [x] [Emojis](#emojis)
-- [ ] [Tables](#tables)
+- [x] [Tables](#tables)
 
 
 ## External Link
